@@ -11,11 +11,12 @@
   ],
   "preferGlobal": true,
   "bin": {
-    "committer": "bin/committer.js"
+    "committer": "bin/committer"
   },
   "author": "muukii",
   "license": "MIT",
   "dependencies": {
+    "coffee-script": "^1.9.1",
     "commander": "^2.6.0"
   }
 }
