@@ -1,0 +1,21 @@
+{
+  "name": "Committer",
+  "version": "1.0.0",
+  "description": "Interactive Git commit tool.",
+  "main": "committer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "committer"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "committer": "bin/committer.js"
+  },
+  "author": "muukii",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.6.0"
+  }
+}
